@@ -1,5 +1,5 @@
 <?php
-$url = 'http://localhost/Univesita/getArchiveActivity.php';
+$url = 'http://localhost/Univesita/pianostudi.php';
 $array = json_decode(file_get_contents($url));
 ?>
 <div class="row">

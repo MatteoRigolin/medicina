@@ -8,16 +8,16 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link" href="http://localhost/medicina?page=attivita">Attività Formativa</a>
+                    <a class="nav-link" href="http://localhost/Universita?page=attivita">Attività Formativa</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="http://localhost/medicina?page=unita">Unità Didattica</a>
+                    <a class="nav-link" href="http://localhost/Universita?page=unita">Unità Didattica</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="http://localhost/medicina?page=gestioneattivita">Gestione Attività</a>
+                    <a class="nav-link" href="http://localhost/Universita?page=gestioneattivita">Gestione Attività</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="http://localhost/medicina?page=gestioneunita">Gestione Unità</a>
+                    <a class="nav-link" href="http://localhost/Universita?page=gestioneunita">Gestione Unità</a>
                 </li>
             </ul>
         </div>
